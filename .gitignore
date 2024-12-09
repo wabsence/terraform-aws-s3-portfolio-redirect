@@ -1,0 +1,20 @@
+# Terraform State files
+terraform.tfstate
+terraform.tfstate.backup
+
+# .terraform directory
+.terraform/
+
+# Terraform variables file (if used for sensitive data)
+terraform.tfvars
+
+# Lock files
+*.lock.hcl
+
+# IDE specific files
+*.idea/
+*.vscode/
+.DS_Store
+
+# Log files
+*.log
