@@ -1,8 +1,8 @@
 
-# Superheroes Inc. Portfolio Website Deployment on AWS S3
+# Wahab Mustapha. Portfolio Website Deployment on AWS S3
 
 ## Project Overview
-This project involves the deployment of a portfolio website for **Superheroes Inc.** leveraging Amazon Web Services (AWS) services, primarily utilizing Terraform for infrastructure as code. The website is hosted on an Amazon S3 bucket, and a subdomain (`www.superheroesinc.com.ng`) is configured to redirect to the actual S3 bucket endpoint seamlessly.
+This project involves the deployment of a portfolio website for **Wahab Mustapha.** as a DevOps Engineer, leveraging Amazon Web Services (AWS) services, primarily utilizing Terraform for infrastructure as code. The website is hosted on an Amazon S3 bucket, and a subdomain (`www.superheroesinc.com.ng`) is configured to redirect to the actual S3 bucket endpoint seamlessly.
 
 ## Project Components
 1. **AWS S3 Bucket for Main Website**:
